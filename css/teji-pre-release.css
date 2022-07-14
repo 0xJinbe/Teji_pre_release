@@ -314,6 +314,10 @@ body {
   .box {
     margin-bottom: 10px;
   }
+
+  .absoluteicon {
+    display: none;
+  }
 }
 
 @font-face {
