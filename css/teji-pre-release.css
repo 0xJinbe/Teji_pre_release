@@ -93,8 +93,19 @@ body {
   border-style: solid;
   border-width: 1px;
   border-color: #fff;
-  border-radius: 2px;
+  border-radius: 0px;
   background-color: rgba(255, 255, 255, 0);
+  color: rgba(255, 8, 130, 0);
+  font-size: 2em;
+  line-height: 1;
+}
+
+.button:hover {
+  border-width: 1px;
+  border-color: #fff;
+  border-radius: 0px;
+  background-color: rgba(255, 255, 255, 0);
+  color: #ff0882;
 }
 
 .button-2 {
@@ -104,6 +115,13 @@ body {
   border-color: #fff;
   border-radius: 2px;
   background-color: rgba(255, 255, 255, 0);
+  color: rgba(255, 255, 255, 0);
+  font-size: 2em;
+  line-height: 1;
+}
+
+.button-2:hover {
+  color: #fff;
 }
 
 .text-block {
