@@ -315,6 +315,12 @@ body {
 }
 
 @media screen and (max-width: 479px) {
+  .internalwrapper {
+    margin-top: 30px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+  }
+
   .pop2 {
     display: -webkit-box;
     display: -webkit-flex;
