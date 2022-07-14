@@ -316,7 +316,7 @@ body {
 
 @media screen and (max-width: 479px) {
   .internalwrapper {
-    margin-top: 30px;
+    margin-top: 60px;
     padding-top: 0px;
     padding-bottom: 0px;
   }
